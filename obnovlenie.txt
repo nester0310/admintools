@@ -1,0 +1,3 @@
+[info]
+vers=6.1
+vers_text=09.01.2022
